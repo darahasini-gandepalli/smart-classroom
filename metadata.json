@@ -1,0 +1,5 @@
+{
+  "name": "Smart Classroom AI",
+  "description": "An intelligent educational platform featuring personalized 3-level learning modules and AI-powered smart note summarization powered by Gemini.",
+  "requestFramePermissions": []
+}
